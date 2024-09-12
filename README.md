@@ -1,4 +1,4 @@
 # NewRepo
 
-Some random text
+Lets Go!!!
 Welcome to my Repo..To discover cool projects!
